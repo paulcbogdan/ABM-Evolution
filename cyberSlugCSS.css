@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+header{
+width:100%;
+text-align:center;
+}
+
+#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+canvas {
+   display: inline;
+}
+body {
+    background-color: PaleGreen ;
+}
